@@ -1,0 +1,688 @@
+Token	POS-Tag	OOV	Id	Index	Documento
+O	DET	0	1	0	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+atacante	NOUN	0	1	1	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+marcou	VERB	0	1	2	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+dois	NUM	0	1	3	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+gols	NOUN	0	1	4	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+na	ADP	0	1	5	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+vitória	NOUN	0	1	6	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+decisiva	ADJ	0	1	7	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+de	ADP	0	1	8	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+ontem	ADV	1	1	9	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+à	ADP	0	1	10	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+noite	NOUN	0	1	11	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+,	PUNCT	0	1	12	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+garantindo	VERB	0	1	13	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+a	DET	0	1	14	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+classificação	NOUN	0	1	15	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+do	ADP	0	1	16	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+time	NOUN	0	1	17	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+para	ADP	0	1	18	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+as	DET	0	1	19	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+quartas	NOUN	0	1	20	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+de	ADP	0	1	21	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+final	NOUN	0	1	22	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+do	ADP	0	1	23	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+campeonato	NOUN	0	1	24	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+nacional	ADJ	0	1	25	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+.	PUNCT	0	1	26	O atacante marcou dois gols na vitória decisiva de ontem à noite , garantindo a classificação do time para as quartas de final do campeonato nacional .
+A	DET	0	2	0	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+atleta	NOUN	0	2	1	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+brasileira	ADJ	0	2	2	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+quebrou	VERB	0	2	3	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+o	DET	0	2	4	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+recorde	NOUN	0	2	5	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+sul-americano	ADJ	1	2	6	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+na	ADP	0	2	7	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+prova	NOUN	0	2	8	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+dos	ADP	0	2	9	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+100	NUM	0	2	10	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+metros	NOUN	0	2	11	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+rasos	ADJ	1	2	12	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+durante	ADP	0	2	13	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+o	DET	0	2	14	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+circuito	NOUN	0	2	15	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+mundial	ADJ	0	2	16	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+de	ADP	0	2	17	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+atletismo	NOUN	0	2	18	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+em	ADP	0	2	19	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+Paris	PROPN	0	2	20	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+.	PUNCT	0	2	21	A atleta brasileira quebrou o recorde sul-americano na prova dos 100 metros rasos durante o circuito mundial de atletismo em Paris .
+O	DET	0	3	0	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+comitê	NOUN	0	3	1	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+organizador	ADJ	1	3	2	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+dos	ADP	0	3	3	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+jogos	NOUN	0	3	4	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+olímpicos	ADJ	1	3	5	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+anunciou	VERB	0	3	6	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+novas	ADJ	0	3	7	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+diretrizes	NOUN	0	3	8	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+de	ADP	0	3	9	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+segurança	NOUN	0	3	10	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+e	CCONJ	0	3	11	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+venda	NOUN	0	3	12	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+de	ADP	0	3	13	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+ingressos	NOUN	0	3	14	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+para	ADP	0	3	15	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+a	DET	0	3	16	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+próxima	ADJ	0	3	17	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+temporada	NOUN	0	3	18	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+de	ADP	0	3	19	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+competições	NOUN	0	3	20	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+de	ADP	0	3	21	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+inverno	NOUN	0	3	22	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+.	PUNCT	0	3	23	O comitê organizador dos jogos olímpicos anunciou novas diretrizes de segurança e venda de ingressos para a próxima temporada de competições de inverno .
+Após	ADP	0	4	0	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+uma	DET	0	4	1	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+disputa	NOUN	0	4	2	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+emocionante	ADJ	1	4	3	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+no	ADP	0	4	4	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+tie-break	NOUN	1	4	5	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+,	PUNCT	0	4	6	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+o	DET	0	4	7	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+jovem	ADJ	0	4	8	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+tenista	NOUN	1	4	9	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+de	ADP	0	4	10	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+dezenove	NUM	0	4	11	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+anos	NOUN	0	4	12	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+conquistou	VERB	0	4	13	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+seu	DET	0	4	14	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+primeiro	ADJ	0	4	15	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+título	NOUN	0	4	16	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+de	ADP	0	4	17	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+Grand	PROPN	0	4	18	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+Slam	PROPN	0	4	19	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+na	ADP	0	4	20	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+carreira	NOUN	0	4	21	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+.	PUNCT	0	4	22	Após uma disputa emocionante no tie-break , o jovem tenista de dezenove anos conquistou seu primeiro título de Grand Slam na carreira .
+A	DET	0	5	0	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+equipe	NOUN	0	5	1	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+de	ADP	0	5	2	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+basquete	NOUN	0	5	3	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+anunciou	VERB	0	5	4	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+a	DET	0	5	5	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+contratação	NOUN	0	5	6	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+do	ADP	0	5	7	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+novo	ADJ	0	5	8	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+treinador	NOUN	0	5	9	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+experiente	ADJ	0	5	10	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+,	PUNCT	0	5	11	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+que	PRON	0	5	12	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+promete	VERB	0	5	13	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+focar	VERB	1	5	14	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+a	DET	0	5	15	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+estratégia	NOUN	0	5	16	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+na	ADP	0	5	17	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+defesa	NOUN	0	5	18	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+e	CCONJ	0	5	19	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+no	ADP	0	5	20	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+desenvolvimento	NOUN	0	5	21	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+de	ADP	0	5	22	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+jovens	ADJ	0	5	23	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+talentos	NOUN	0	5	24	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+.	PUNCT	0	5	25	A equipe de basquete anunciou a contratação do novo treinador experiente , que promete focar a estratégia na defesa e no desenvolvimento de jovens talentos .
+A	DET	0	6	0	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+nova	ADJ	0	6	1	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+atualização	NOUN	0	6	2	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+do	ADP	0	6	3	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+sistema	NOUN	0	6	4	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+operacional	ADJ	0	6	5	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+móvel	ADJ	0	6	6	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+trouxe	VERB	0	6	7	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+melhorias	NOUN	0	6	8	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+significativas	ADJ	0	6	9	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+na	ADP	0	6	10	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+autonomia	NOUN	0	6	11	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+da	ADP	0	6	12	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+bateria	NOUN	0	6	13	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+e	CCONJ	0	6	14	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+novos	ADJ	0	6	15	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+recursos	NOUN	0	6	16	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+avançados	VERB	0	6	17	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+de	ADP	0	6	18	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+privacidade	NOUN	1	6	19	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+de	ADP	0	6	20	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+dados	NOUN	0	6	21	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+.	PUNCT	0	6	22	A nova atualização do sistema operacional móvel trouxe melhorias significativas na autonomia da bateria e novos recursos avançados de privacidade de dados .
+Especialistas	NOUN	1	7	0	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+em	ADP	0	7	1	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+segurança	NOUN	0	7	2	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+digital	ADJ	0	7	3	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+alertam	VERB	1	7	4	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+para	ADP	0	7	5	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+uma	DET	0	7	6	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+nova	ADJ	0	7	7	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+campanha	NOUN	0	7	8	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+de	ADP	0	7	9	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+phishing	NOUN	1	7	10	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+que	PRON	0	7	11	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+utiliza	VERB	0	7	12	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+inteligência	NOUN	0	7	13	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+artificial	ADJ	0	7	14	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+para	SCONJ	0	7	15	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+clonar	VERB	1	7	16	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+a	DET	0	7	17	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+voz	NOUN	0	7	18	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+de	ADP	0	7	19	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+executivos	NOUN	0	7	20	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+.	PUNCT	0	7	21	Especialistas em segurança digital alertam para uma nova campanha de phishing que utiliza inteligência artificial para clonar a voz de executivos .
+O	DET	0	8	0	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+laboratório	NOUN	0	8	1	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+de	ADP	0	8	2	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+pesquisa	NOUN	0	8	3	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+anunciou	VERB	0	8	4	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+o	DET	0	8	5	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+desenvolvimento	NOUN	0	8	6	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+de	ADP	0	8	7	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+um	DET	0	8	8	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+processador	NOUN	0	8	9	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+quântico	ADJ	1	8	10	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+capaz	ADJ	0	8	11	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+de	SCONJ	0	8	12	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+resolver	VERB	0	8	13	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+cálculos	NOUN	0	8	14	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+complexos	ADJ	0	8	15	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+em	ADP	0	8	16	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+poucos	DET	0	8	17	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+segundos	NOUN	0	8	18	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+.	PUNCT	0	8	19	O laboratório de pesquisa anunciou o desenvolvimento de um processador quântico capaz de resolver cálculos complexos em poucos segundos .
+Empresas	NOUN	1	9	0	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+de	ADP	0	9	1	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+tecnologia	NOUN	0	9	2	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+estão	AUX	0	9	3	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+investindo	VERB	1	9	4	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+bilhões	NUM	0	9	5	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+no	ADP	0	9	6	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+desenvolvimento	NOUN	0	9	7	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+de	ADP	0	9	8	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+assistentes	NOUN	1	9	9	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+virtuais	ADJ	1	9	10	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+integrados	VERB	0	9	11	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+a	ADP	0	9	12	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+modelos	NOUN	0	9	13	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+de	ADP	0	9	14	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+linguagem	NOUN	0	9	15	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+de	ADP	0	9	16	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+grande	ADJ	0	9	17	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+escala	NOUN	0	9	18	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+.	PUNCT	0	9	19	Empresas de tecnologia estão investindo bilhões no desenvolvimento de assistentes virtuais integrados a modelos de linguagem de grande escala .
+O	DET	0	10	0	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+uso	NOUN	0	10	1	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+de	ADP	0	10	2	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+redes	NOUN	0	10	3	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+neurais	ADJ	1	10	4	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+artificiais	ADJ	0	10	5	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+na	ADP	0	10	6	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+indústria	NOUN	0	10	7	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+automobilística	ADJ	1	10	8	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+acelerou	VERB	1	10	9	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+a	DET	0	10	10	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+homologação	NOUN	1	10	11	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+de	ADP	0	10	12	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+sistemas	NOUN	0	10	13	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+de	ADP	0	10	14	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+condução	NOUN	0	10	15	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+autônoma	ADJ	0	10	16	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+de	ADP	0	10	17	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+nível	NOUN	0	10	18	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+quatro	NUM	0	10	19	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+.	PUNCT	0	10	20	O uso de redes neurais artificiais na indústria automobilística acelerou a homologação de sistemas de condução autônoma de nível quatro .
+Uma	DET	0	11	0	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+nova	ADJ	0	11	1	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+pesquisa	NOUN	0	11	2	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+clínica	ADJ	0	11	3	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+publicada	VERB	0	11	4	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+nesta	ADP	0	11	5	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+semana	NOUN	0	11	6	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+indica	VERB	0	11	7	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+que	SCONJ	0	11	8	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+a	DET	0	11	9	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+prática	NOUN	0	11	10	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+regular	ADJ	0	11	11	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+de	ADP	0	11	12	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+exercícios	NOUN	0	11	13	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+moderados	ADJ	1	11	14	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+pode	VERB	0	11	15	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+reduzir	VERB	0	11	16	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+o	DET	0	11	17	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+risco	NOUN	0	11	18	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+de	ADP	0	11	19	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+doenças	NOUN	0	11	20	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+cardíacas	ADJ	1	11	21	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+em	ADP	0	11	22	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+até	ADP	0	11	23	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+trinta	NUM	0	11	24	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+por	ADP	0	11	25	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+cento	NUM	0	11	26	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+.	PUNCT	0	11	27	Uma nova pesquisa clínica publicada nesta semana indica que a prática regular de exercícios moderados pode reduzir o risco de doenças cardíacas em até trinta por cento .
+A	DET	0	12	0	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+organização	NOUN	0	12	1	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+mundial	ADJ	0	12	2	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+da	ADP	0	12	3	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+saúde	NOUN	0	12	4	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+iniciou	VERB	0	12	5	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+uma	DET	0	12	6	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+nova	ADJ	0	12	7	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+campanha	NOUN	0	12	8	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+global	ADJ	0	12	9	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+de	ADP	0	12	10	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+vacinação	NOUN	1	12	11	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+para	SCONJ	0	12	12	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+erradicar	VERB	1	12	13	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+variantes	NOUN	0	12	14	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+locais	ADJ	0	12	15	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+de	ADP	0	12	16	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+doenças	NOUN	0	12	17	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+sazonais	ADJ	1	12	18	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+na	ADP	0	12	19	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+África	PROPN	0	12	20	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+subsariana	ADJ	1	12	21	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+.	PUNCT	0	12	22	A organização mundial da saúde iniciou uma nova campanha global de vacinação para erradicar variantes locais de doenças sazonais na África subsariana .
+Cientistas	NOUN	1	13	0	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+identificaram	VERB	1	13	1	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+um	DET	0	13	2	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+novo	ADJ	0	13	3	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+marcador	NOUN	1	13	4	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+genético	ADJ	0	13	5	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+que	PRON	0	13	6	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+pode	VERB	0	13	7	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+ajudar	VERB	0	13	8	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+no	ADP	0	13	9	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+diagnóstico	NOUN	0	13	10	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+precoce	ADJ	0	13	11	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+e	CCONJ	0	13	12	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+no	ADP	0	13	13	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+tratamento	NOUN	0	13	14	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+personalizado	VERB	1	13	15	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+de	ADP	0	13	16	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+síndromes	NOUN	1	13	17	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+metabólicas	ADJ	1	13	18	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+de	ADP	0	13	19	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+alta	ADJ	0	13	20	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+complexidade	NOUN	0	13	21	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+.	PUNCT	0	13	22	Cientistas identificaram um novo marcador genético que pode ajudar no diagnóstico precoce e no tratamento personalizado de síndromes metabólicas de alta complexidade .
+O	DET	0	14	0	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+hospital	NOUN	0	14	1	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+universitário	ADJ	0	14	2	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+implementou	VERB	1	14	3	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+um	DET	0	14	4	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+sistema	NOUN	0	14	5	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+de	ADP	0	14	6	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+triagem	NOUN	1	14	7	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+baseado	VERB	0	14	8	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+em	ADP	0	14	9	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+aprendizado	NOUN	0	14	10	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+de	ADP	0	14	11	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+máquina	NOUN	0	14	12	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+para	SCONJ	0	14	13	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+reduzir	VERB	0	14	14	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+o	DET	0	14	15	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+tempo	NOUN	0	14	16	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+de	ADP	0	14	17	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+espera	NOUN	0	14	18	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+no	ADP	0	14	19	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+pronto-socorro	NOUN	1	14	20	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+.	PUNCT	0	14	21	O hospital universitário implementou um sistema de triagem baseado em aprendizado de máquina para reduzir o tempo de espera no pronto-socorro .
+Nutricionistas	NOUN	1	15	0	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+reforçam	VERB	1	15	1	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+a	DET	0	15	2	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+importância	NOUN	0	15	3	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+de	ADP	0	15	4	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+uma	DET	0	15	5	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+dieta	NOUN	0	15	6	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+equilibrada	VERB	1	15	7	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+rica	ADJ	0	15	8	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+em	ADP	0	15	9	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+alimentos	NOUN	0	15	10	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+integrais	ADJ	1	15	11	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+e	CCONJ	0	15	12	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+gorduras	NOUN	1	15	13	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+saudáveis	ADJ	1	15	14	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+para	ADP	0	15	15	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+a	DET	0	15	16	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+manutenção	NOUN	0	15	17	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+da	ADP	0	15	18	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+microbiota	NOUN	1	15	19	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+intestinal	ADJ	1	15	20	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+.	PUNCT	0	15	21	Nutricionistas reforçam a importância de uma dieta equilibrada rica em alimentos integrais e gorduras saudáveis para a manutenção da microbiota intestinal .
+A	DET	0	16	0	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+semana	NOUN	0	16	1	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+de	ADP	0	16	2	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+moda	NOUN	0	16	3	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+de	ADP	0	16	4	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+Milão	PROPN	0	16	5	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+destacou	VERB	0	16	6	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+coleções	NOUN	0	16	7	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+focadas	VERB	1	16	8	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+em	ADP	0	16	9	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+sustentabilidade	NOUN	1	16	10	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+,	PUNCT	0	16	11	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+utilizando	VERB	0	16	12	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+tecidos	NOUN	0	16	13	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+reciclados	VERB	1	16	14	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+e	CCONJ	0	16	15	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+processos	NOUN	0	16	16	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+de	ADP	0	16	17	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+tingimento	NOUN	1	16	18	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+ecológico	ADJ	1	16	19	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+.	PUNCT	0	16	20	A semana de moda de Milão destacou coleções focadas em sustentabilidade , utilizando tecidos reciclados e processos de tingimento ecológico .
+O	DET	0	17	0	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+estilo	NOUN	0	17	1	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+retrô	ADJ	1	17	2	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+dos	ADP	0	17	3	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+anos	NOUN	0	17	4	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+noventa	NUM	1	17	5	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+continua	VERB	0	17	6	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+influenciando	VERB	1	17	7	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+as	DET	0	17	8	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+novas	ADJ	0	17	9	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+coleções	NOUN	0	17	10	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+de	ADP	0	17	11	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+roupas	NOUN	0	17	12	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+urbanas	ADJ	0	17	13	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+e	CCONJ	0	17	14	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+acessórios	NOUN	0	17	15	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+de	ADP	0	17	16	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+grandes	ADJ	0	17	17	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+marcas	NOUN	0	17	18	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+internacionais	ADJ	0	17	19	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+.	PUNCT	0	17	20	O estilo retrô dos anos noventa continua influenciando as novas coleções de roupas urbanas e acessórios de grandes marcas internacionais .
+Uma	DET	0	18	0	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+famosa	ADJ	0	18	1	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+estilista	NOUN	1	18	2	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+anunciou	VERB	0	18	3	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+sua	DET	0	18	4	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+nova	ADJ	0	18	5	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+linha	NOUN	0	18	6	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+de	ADP	0	18	7	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+alta	ADJ	0	18	8	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+costura	NOUN	1	18	9	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+inspirada	VERB	0	18	10	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+na	ADP	0	18	11	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+arquitetura	NOUN	0	18	12	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+brutalista	ADJ	1	18	13	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+e	CCONJ	0	18	14	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+no	ADP	0	18	15	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+uso	NOUN	0	18	16	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+de	ADP	0	18	17	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+cores	NOUN	0	18	18	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+sóbrias	ADJ	1	18	19	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+e	CCONJ	0	18	20	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+cortes	NOUN	0	18	21	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+assimétricos	ADJ	1	18	22	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+.	PUNCT	0	18	23	Uma famosa estilista anunciou sua nova linha de alta costura inspirada na arquitetura brutalista e no uso de cores sóbrias e cortes assimétricos .
+O	DET	0	19	0	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+crescimento	NOUN	0	19	1	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+do	ADP	0	19	2	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+mercado	NOUN	0	19	3	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+de	ADP	0	19	4	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+segunda	ADJ	0	19	5	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+mão	NOUN	0	19	6	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+e	CCONJ	0	19	7	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+brechós	NOUN	1	19	8	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+online	ADJ	0	19	9	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+está	AUX	0	19	10	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+mudando	VERB	0	19	11	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+a	DET	0	19	12	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+forma	NOUN	0	19	13	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+como	ADV	0	19	14	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+os	DET	0	19	15	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+consumidores	NOUN	0	19	16	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+jovens	ADJ	0	19	17	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+se	PRON	0	19	18	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+relacionam	VERB	1	19	19	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+com	ADP	0	19	20	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+o	DET	0	19	21	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+consumo	NOUN	0	19	22	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+de	ADP	0	19	23	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+luxo	NOUN	0	19	24	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+.	PUNCT	0	19	25	O crescimento do mercado de segunda mão e brechós online está mudando a forma como os consumidores jovens se relacionam com o consumo de luxo .
+O	DET	0	20	0	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+uso	NOUN	0	20	1	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+de	ADP	0	20	2	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+tecidos	NOUN	0	20	3	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+tecnológicos	ADJ	1	20	4	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+e	CCONJ	0	20	5	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+inteligentes	ADJ	1	20	6	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+que	PRON	0	20	7	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+regulam	VERB	1	20	8	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+a	DET	0	20	9	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+temperatura	NOUN	0	20	10	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+corporal	ADJ	0	20	11	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+foi	AUX	0	20	12	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+o	DET	0	20	13	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+grande	ADJ	0	20	14	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+destaque	NOUN	0	20	15	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+da	ADP	0	20	16	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+feira	NOUN	0	20	17	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+de	ADP	0	20	18	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+inovação	NOUN	0	20	19	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+têxtil	ADJ	1	20	20	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+deste	ADP	0	20	21	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+ano	NOUN	0	20	22	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+.	PUNCT	0	20	23	O uso de tecidos tecnológicos e inteligentes que regulam a temperatura corporal foi o grande destaque da feira de inovação têxtil deste ano .
+Biólogos	NOUN	1	21	0	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+registraram	VERB	1	21	1	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+um	DET	0	21	2	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+aumento	NOUN	0	21	3	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+significativo	ADJ	0	21	4	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+na	ADP	0	21	5	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+população	NOUN	0	21	6	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+de	ADP	0	21	7	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+baleias-jubarte	NOUN	1	21	8	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+na	ADP	0	21	9	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+costa	NOUN	0	21	10	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+brasileira	ADJ	0	21	11	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+,	PUNCT	0	21	12	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+indicando	VERB	0	21	13	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+o	DET	0	21	14	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+sucesso	NOUN	0	21	15	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+das	ADP	0	21	16	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+medidas	NOUN	0	21	17	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+de	ADP	0	21	18	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+preservação	NOUN	0	21	19	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+ambiental	ADJ	0	21	20	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+.	PUNCT	0	21	21	Biólogos registraram um aumento significativo na população de baleias-jubarte na costa brasileira , indicando o sucesso das medidas de preservação ambiental .
+Um	DET	0	22	0	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+novo	ADJ	0	22	1	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+estudo	NOUN	0	22	2	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+sobre	ADP	0	22	3	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+o	DET	0	22	4	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+comportamento	NOUN	0	22	5	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+de	ADP	0	22	6	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+primatas	NOUN	1	22	7	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+revelou	VERB	0	22	8	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+que	SCONJ	0	22	9	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+algumas	DET	0	22	10	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+espécies	NOUN	0	22	11	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+utilizam	VERB	0	22	12	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+ferramentas	NOUN	0	22	13	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+de	ADP	0	22	14	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+pedra	NOUN	0	22	15	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+complexas	ADJ	0	22	16	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+para	SCONJ	0	22	17	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+abrir	VERB	0	22	18	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+frutos	NOUN	0	22	19	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+rígidos	VERB	1	22	20	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+.	PUNCT	0	22	21	Um novo estudo sobre o comportamento de primatas revelou que algumas espécies utilizam ferramentas de pedra complexas para abrir frutos rígidos .
+O	DET	0	23	0	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+projeto	NOUN	0	23	1	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+de	ADP	0	23	2	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+conservação	NOUN	0	23	3	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+conseguiu	VERB	0	23	4	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+reintroduzir	VERB	1	23	5	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+com	ADP	0	23	6	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+sucesso	NOUN	0	23	7	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+dez	NUM	0	23	8	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+espécimes	NOUN	0	23	9	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+de	ADP	0	23	10	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+aves	NOUN	0	23	11	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+raras	ADJ	0	23	12	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+em	ADP	0	23	13	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+seu	DET	0	23	14	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+habitat	NOUN	0	23	15	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+natural	ADJ	0	23	16	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+na	ADP	0	23	17	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+floresta	NOUN	0	23	18	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+amazônica	ADJ	1	23	19	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+.	PUNCT	0	23	20	O projeto de conservação conseguiu reintroduzir com sucesso dez espécimes de aves raras em seu habitat natural na floresta amazônica .
+Pesquisadores	NOUN	1	24	0	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+descobriram	VERB	0	24	1	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+que	SCONJ	0	24	2	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+os	DET	0	24	3	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+cães	NOUN	0	24	4	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+possuem	VERB	0	24	5	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+uma	DET	0	24	6	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+capacidade	NOUN	0	24	7	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+cognitiva	ADJ	1	24	8	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+avançada	VERB	0	24	9	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+para	SCONJ	0	24	10	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+interpretar	VERB	0	24	11	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+expressões	NOUN	0	24	12	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+faciais	ADJ	1	24	13	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+humanas	ADJ	0	24	14	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+e	CCONJ	0	24	15	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+variações	NOUN	0	24	16	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+no	ADP	0	24	17	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+tom	NOUN	0	24	18	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+de	ADP	0	24	19	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+voz	NOUN	0	24	20	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+.	PUNCT	0	24	21	Pesquisadores descobriram que os cães possuem uma capacidade cognitiva avançada para interpretar expressões faciais humanas e variações no tom de voz .
+Uma	DET	0	25	0	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+nova	ADJ	0	25	1	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+reserva	NOUN	0	25	2	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+marinha	ADJ	0	25	3	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+foi	AUX	0	25	4	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+criada	VERB	0	25	5	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+para	SCONJ	0	25	6	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+proteger	VERB	0	25	7	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+os	DET	0	25	8	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+santuários	NOUN	1	25	9	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+de	ADP	0	25	10	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+reprodução	NOUN	0	25	11	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+de	ADP	0	25	12	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+tartarugas	NOUN	1	25	13	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+marinhas	ADJ	0	25	14	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+ameaçadas	VERB	1	25	15	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+de	ADP	0	25	16	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+extinção	NOUN	0	25	17	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+no	ADP	0	25	18	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+oceano	NOUN	0	25	19	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+pacífico	ADJ	1	25	20	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+.	PUNCT	0	25	21	Uma nova reserva marinha foi criada para proteger os santuários de reprodução de tartarugas marinhas ameaçadas de extinção no oceano pacífico .
+O	DET	0	26	0	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+longa-metragem	NOUN	1	26	1	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+de	ADP	0	26	2	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+ficção	NOUN	0	26	3	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+científica	ADJ	0	26	4	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+recebeu	VERB	0	26	5	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+aclamação	NOUN	0	26	6	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+universal	ADJ	0	26	7	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+dos	ADP	0	26	8	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+críticos	NOUN	0	26	9	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+em	ADP	0	26	10	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+sua	DET	0	26	11	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+estreia	NOUN	0	26	12	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+mundial	ADJ	0	26	13	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+,	PUNCT	0	26	14	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+sendo	AUX	0	26	15	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+forte	ADJ	0	26	16	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+candidato	NOUN	0	26	17	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+às	ADP	0	26	18	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+principais	ADJ	0	26	19	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+premiações	NOUN	1	26	20	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+do	ADP	0	26	21	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+cinema	NOUN	0	26	22	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+.	PUNCT	0	26	23	O longa-metragem de ficção científica recebeu aclamação universal dos críticos em sua estreia mundial , sendo forte candidato às principais premiações do cinema .
+O	DET	0	27	0	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+diretor	NOUN	0	27	1	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+premiado	VERB	0	27	2	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+anunciou	VERB	0	27	3	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+o	DET	0	27	4	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+início	NOUN	0	27	5	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+das	ADP	0	27	6	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+filmagens	NOUN	0	27	7	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+de	ADP	0	27	8	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+seu	DET	0	27	9	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+próximo	ADJ	0	27	10	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+drama	NOUN	0	27	11	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+histórico	ADJ	0	27	12	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+,	PUNCT	0	27	13	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+que	PRON	0	27	14	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+contará	VERB	1	27	15	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+com	ADP	0	27	16	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+um	DET	0	27	17	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+elenco	NOUN	0	27	18	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+repleto	ADJ	1	27	19	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+de	ADP	0	27	20	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+estrelas	NOUN	0	27	21	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+consagradas	VERB	1	27	22	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+.	PUNCT	0	27	23	O diretor premiado anunciou o início das filmagens de seu próximo drama histórico , que contará com um elenco repleto de estrelas consagradas .
+A	DET	0	28	0	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+nova	ADJ	0	28	1	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+produção	NOUN	0	28	2	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+da	ADP	0	28	3	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+plataforma	NOUN	0	28	4	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+de	ADP	0	28	5	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+streaming	PROPN	1	28	6	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+bateu	VERB	0	28	7	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+recordes	NOUN	0	28	8	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+de	ADP	0	28	9	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+audiência	NOUN	0	28	10	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+no	ADP	0	28	11	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+primeiro	ADJ	0	28	12	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+fim	NOUN	0	28	13	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+de	ADP	0	28	14	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+semana	NOUN	0	28	15	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+,	PUNCT	0	28	16	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+misturando	VERB	1	28	17	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+elementos	NOUN	0	28	18	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+de	ADP	0	28	19	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+suspense	NOUN	1	28	20	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+e	CCONJ	0	28	21	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+terror	NOUN	0	28	22	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+psicológico	ADJ	0	28	23	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+.	PUNCT	0	28	24	A nova produção da plataforma de streaming bateu recordes de audiência no primeiro fim de semana , misturando elementos de suspense e terror psicológico .
+O	DET	0	29	0	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+festival	NOUN	0	29	1	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+de	ADP	0	29	2	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+cinema	NOUN	0	29	3	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+independente	ADJ	0	29	4	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+premiou	VERB	1	29	5	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+um	DET	0	29	6	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+documentário	NOUN	0	29	7	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+contundente	ADJ	1	29	8	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+que	PRON	0	29	9	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+aborda	VERB	0	29	10	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+os	DET	0	29	11	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+impactos	NOUN	0	29	12	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+sociais	ADJ	0	29	13	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+da	ADP	0	29	14	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+urbanização	NOUN	0	29	15	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+acelerada	VERB	1	29	16	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+nas	ADP	0	29	17	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+grandes	ADJ	0	29	18	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+metrópoles	NOUN	1	29	19	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+.	PUNCT	0	29	20	O festival de cinema independente premiou um documentário contundente que aborda os impactos sociais da urbanização acelerada nas grandes metrópoles .
+Críticos	NOUN	1	30	0	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+elogiaram	VERB	1	30	1	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+a	DET	0	30	2	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+atuação	NOUN	0	30	3	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+impecável	ADJ	1	30	4	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+da	ADP	0	30	5	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+atriz	NOUN	0	30	6	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+principal	ADJ	0	30	7	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+,	PUNCT	0	30	8	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+que	PRON	0	30	9	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+conseguiu	VERB	0	30	10	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+transmitir	VERB	0	30	11	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+profunda	ADJ	0	30	12	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+vulnerabilidade	NOUN	1	30	13	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+emocional	ADJ	0	30	14	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+sem	ADP	0	30	15	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+o	DET	0	30	16	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+uso	NOUN	0	30	17	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+excessivo	ADJ	1	30	18	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+de	ADP	0	30	19	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+diálogos	NOUN	0	30	20	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
+.	PUNCT	0	30	21	Críticos elogiaram a atuação impecável da atriz principal , que conseguiu transmitir profunda vulnerabilidade emocional sem o uso excessivo de diálogos .
